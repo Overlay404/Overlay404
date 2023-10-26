@@ -18,6 +18,6 @@
   </h2>
   <div id="stats"> 
     | <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="GitHub Stats"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlay404&layout=compact" alt="GitHub Stats"/> |
-| ------------- | ------------- |
+    | ------------- | ------------- |
   </div>
 </div>
