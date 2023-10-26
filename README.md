@@ -7,7 +7,7 @@
       <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram" alt="Telegram Badge"/>
     </a>
     <a href="mailto:denis.alekseev.200411@mail.ru&body=привет?subject=твой вопрос">
-      <img src="https://img.shields.io/badge/mail.ru-white?style=for-the-badge&logo=email" alt="Youtube Badge"/>
+      <img src="https://img.shields.io/badge/mail.ru-white?style=for-the-badge&logo=email" alt="Email Badge"/>
     </a>
   </div>
   <div id="views-counter">
