@@ -4,7 +4,7 @@
   </h3>
   <div id="badges">
     <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram&logoColor=blue" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/telegram-blue?logo=telegram" alt="Telegram Badge"/>
     </a>
     <a href="your-youtube-URL">
       <img src="https://img.shields.io/badge/mail.ru-white?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Youtube Badge"/>
