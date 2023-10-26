@@ -17,6 +17,6 @@
     Статистика моего аккаунта:
   </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Overlay404&show_icons=true&theme=white" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlay404&layout=donut&&langs_count="5" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Overlay404&layout=donut&&langs_count=5" alt="GitHub Stats"/>
 </div>
 
