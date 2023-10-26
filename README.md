@@ -1,5 +1,3 @@
-### Github Stats:
-
 <div id="header" align="center">
   <div id="badges">
   <a href="your-linkedin-URL">
@@ -13,7 +11,6 @@
   </a>
 </div>
 <div id="stats">
-    <img src="https://streak-stats.demolab.com?  user=Overlay404&theme=transparent&hide_border=true&locale=ru&currStreakNum=00EB3A&background=000000&border=3103EB&stroke=04EB12&ring=00EB8C&
-      fire=5FEB00&sideNums=02EB8A&currStreakLabel=00EB7A&sideLabels=00EB82" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com?  user=Overlay404&theme=transparent&hide_border=true&locale=ru&currStreakNum=00EB3A&background=000000&border=3103EB&stroke=04EB12&ring=00EB8C&fire=5FEB00&sideNums=02EB8A&currStreakLabel=00EB7A&sideLabels=00EB82" alt="GitHub Streak"/>
 </div>
 </div>
